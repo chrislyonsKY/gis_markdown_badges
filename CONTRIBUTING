@@ -1,4 +1,4 @@
-# Contributing to gis_markdown_badges
+# Contributing to markdown-badges
 
 :tada: First off, thanks for taking the time to contribute! :tada:
 
@@ -57,5 +57,3 @@ If the badge name needs to have spaces in it ("Google Chrome", "Google Drive", "
 | ![Google Chrome](https://img.shields.io/badge/GoogleChrome-%234285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white) | `![Google Chrome](https://img.shields.io/badge/GoogleChrome-%234285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)` | ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-%234285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white) | `![Google Chrome](https://img.shields.io/badge/Google%20Chrome-%234285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)` |
 
 <hr />
-
-##### Thanks! again to ALL the [amazing contributors!](https://github.com/Ileriayo/markdown-badges/graphs/contributors) 🙏
