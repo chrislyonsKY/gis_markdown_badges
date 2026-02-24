@@ -1,6 +1,6 @@
 # 🚀 Ultimate Badge Collection (AI + GIS + Dev Stack)
 
-This README includes 100+ professional Shields.io badges using `style=for-the-badge`.
+This README includes 1000+ professional Shields.io badges using `style=for-the-badge`.
 
 ![License](https://img.shields.io/github/license/chrislyonsKY/gis_markdown_badges?style=for-the-badge)
 
